@@ -20,7 +20,7 @@ export function TabNav(){
                     <Link
                         key={tab.name}
                         href={tab.href}
-                        className={`px-5 py-2 rounded-full text-xs uppercase font-bold tracking-[0.15em] transition-colors duration-200 ease-out ${
+                        className={`px-3 sm:px-5 py-2 rounded-full text-xs uppercase font-bold tracking-wider sm:tracking-[0.15em] transition-colors duration-200 ease-out ${
                             isActive ? "bg-accent text-white" : "text-ink/70 hover:text-ink"
                         }`}
                     >
