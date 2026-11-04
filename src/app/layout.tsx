@@ -23,7 +23,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${manrope.variable} ${fraunces.variable} h-full antialiased`}
+      className={`${manrope.variable} ${fraunces.variable} antialiased`}
     >
       <body className="min-h-screen bg-linear-to-b from-bg to-bg-deep font-sans text-ink">
         <div className="relative">

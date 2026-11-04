@@ -1,4 +1,5 @@
 import { EmptyState } from "@/components/EmptyState";
+import { LeaderboardRow } from "@/components/LeaderboardRow";
 import { MetricToggle } from "@/components/MetricToggle";
 import { getLeaderboard } from "@/lib/data/getLeaderboard";
 import { Metric } from "@/types/game";
@@ -22,11 +23,7 @@ export default async function Home({ searchParams }: PageProps<"/">) {
         {rows.length === 0 ? (
           <EmptyState message="No game to show for now!" />
         ) : (
-          rows.map((row) => (
-            <div key={row.slug}>
-              {row.rank}.{row.name}. {row.value}
-            </div>
-          ))
+          rows.map((row) => <LeaderboardRow key={row.slug} row={row} />)
         )}
       </div>
     </>
