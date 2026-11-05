@@ -5,6 +5,7 @@ import { getLeaderboard } from "@/lib/data/getLeaderboard";
 import type { Metric } from "@/types/game";
 import { ArenaPickers } from "@/components/ArenaPickers";
 import { ArenaCard } from "@/components/ArenaCard";
+import { MetricToggle } from "@/components/MetricToggle";
 
 export default async function Arena({ searchParams }: PageProps<"/arena">) {
   const { a: gameA, b: gameB, metric } = await searchParams;
@@ -29,6 +30,14 @@ export default async function Arena({ searchParams }: PageProps<"/arena">) {
 
   return (
     <>
+      <div className="mb-4 flex justify-end">
+        <MetricToggle
+          current={cleanMetric}
+          basePath="/arena"
+          keep={{ a: leftSlug, b: rightSlug }}
+        />
+      </div>
+
       <ArenaPickers
         games={allGamesData}
         aSlug={leftSlug}
@@ -38,7 +47,11 @@ export default async function Arena({ searchParams }: PageProps<"/arena">) {
         metric={cleanMetric}
       />
       <div className="mt-6">
-        <ArenaCard statsA={slugAGameStats} statsB={slugBGameStats} metric={cleanMetric}/>
+        <ArenaCard
+          statsA={slugAGameStats}
+          statsB={slugBGameStats}
+          metric={cleanMetric}
+        />
       </div>
     </>
   );
