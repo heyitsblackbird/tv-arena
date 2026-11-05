@@ -4,6 +4,7 @@ import { getGameStats } from "@/lib/data/getGameStats";
 import { getLeaderboard } from "@/lib/data/getLeaderboard";
 import type { Metric } from "@/types/game";
 import { ArenaPickers } from "@/components/ArenaPickers";
+import { ArenaCard } from "@/components/ArenaCard";
 
 export default async function Arena({ searchParams }: PageProps<"/arena">) {
   const { a: gameA, b: gameB, metric } = await searchParams;
@@ -36,6 +37,9 @@ export default async function Arena({ searchParams }: PageProps<"/arena">) {
         bName={slugBGameStats.name}
         metric={cleanMetric}
       />
+      <div className="mt-6">
+        <ArenaCard statsA={slugAGameStats} statsB={slugBGameStats} metric={cleanMetric}/>
+      </div>
     </>
   );
 }
