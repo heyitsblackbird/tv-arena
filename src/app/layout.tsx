@@ -33,7 +33,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <div className="mt-6 flex justify-center">
             <TabNav />
           </div>
-          <main className="mx-auto w-full max-w-3xl px-4 pb-16 pt-10">
+          <main className="mx-auto w-full max-w-4xl px-4 pb-16 pt-10">
             {children}
           </main>
           <footer className="space-y-1 px-4 pb-8 text-center text-xs text-muted">

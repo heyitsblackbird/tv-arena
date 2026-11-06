@@ -6,7 +6,7 @@
   --font-serif: var(--font-fraunces-serif);
 }
 
-@theme {
+@theme static{
   --color-bg: #F3EADB;
   --color-bg-deep: #EADCC6;
   --color-surface: #FFFBF3;
