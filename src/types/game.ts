@@ -35,3 +35,10 @@ export interface GameStats extends Game {
     viewersChange: null | number;
 }
 
+export type GuessItem = {
+    slug: string;
+    name: string;
+    publisher: string;
+    value: number;
+};
+
