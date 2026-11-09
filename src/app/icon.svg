@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <!-- one sword pointing up, tip at the top -->
+    <g id="sword" fill="#FFFBF3">
+      <path d="M32 4 L35.2 9 V40 H28.8 V9 Z"/>
+      <rect x="23.5" y="40" width="17" height="4.2" rx="1.8"/>
+      <rect x="30.3" y="44" width="3.4" height="6.5" rx="1"/>
+      <circle cx="32" cy="53" r="3"/>
+    </g>
+  </defs>
+
+  <rect width="64" height="64" rx="16" fill="#C46A3C"/>
+
+  <!-- left: the controller -->
+  <g transform="translate(19 34) scale(0.5) translate(-32 -36)" fill="#FFFBF3">
+    <path d="M20 21 H44 C51.5 21 55.5 26.5 56.8 34 L58.2 43 C59.2 49.5 52.5 52 49 47.5 L44.5 42 H19.5 L15 47.5 C11.5 52 4.8 49.5 5.8 43 L7.2 34 C8.5 26.5 12.5 21 20 21 Z"/>
+    <rect x="15.5" y="29.5" width="11" height="3.6" rx="1.2" fill="#C46A3C"/>
+    <rect x="19.2" y="25.8" width="3.6" height="11" rx="1.2" fill="#C46A3C"/>
+    <circle cx="42.5" cy="28.5" r="2.4" fill="#C46A3C"/>
+    <circle cx="47.5" cy="33.5" r="2.4" fill="#C46A3C"/>
+  </g>
+
+  <!-- right: an "A" made of two swords, tips crossing at the top, with a crossbar -->
+  <g transform="translate(46 32) scale(0.62) translate(-32 -30)">
+    <use href="#sword" transform="rotate(-21 32 11)"/>
+    <use href="#sword" transform="rotate(21 32 11)"/>
+    <rect x="22" y="28" width="20" height="4.4" rx="2" fill="#FFFBF3"/>
+  </g>
+</svg>

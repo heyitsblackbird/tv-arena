@@ -2,7 +2,7 @@
 
 Game Arena ranks and compares video games by Steam players and Twitch viewers.
 
-**Live demo:** https://tv-arena-sage.vercel.app
+**Live demo:** https://game-arena-sage.vercel.app
 
 > Demo data for now. Real Data coming soon.
 
