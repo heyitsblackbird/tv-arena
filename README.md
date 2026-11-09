@@ -2,7 +2,9 @@
 
 Game Arena ranks and compares video games by Steam players and Twitch viewers.
 
-> **Work in progress.** The data layer is built, but the pages aren't yet, and every number is made up for now. Real Steam and Twitch data comes later.
+**Live demo:** https://tv-arena-sage.vercel.app
+
+> Demo data for now. Real Data coming soon.
 
 ## Pages
 
@@ -23,6 +25,7 @@ Pages and components never touch the data source directly. They only call the fu
 | `getGameStats(slug)` | One game's numbers and daily change |
 | `getAllGames()` | Every game, for the search boxes |
 | `getTopSeries(metric, count)` | The top games' last 7 days, for charts |
+| `getGuessPool()` | Every Steam game with today's players, for Guess |
 
 Today these functions read from `src/lib/mock/games.ts`. Later, the same functions will query Postgres, so no page has to change when real data arrives. They're already `async` for that reason.
 
