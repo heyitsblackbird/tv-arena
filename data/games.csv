@@ -1,251 +1,249 @@
 slug,name,publisher,steam_appid,twitch_game_id
-counter-strike-2,Counter-Strike 2,Valve,730,
-dota-2,Dota 2,Valve,570,
-pubg-battlegrounds,PUBG: BATTLEGROUNDS,PUBG Corporation,578080,
-elden-ring-nightreign,ELDEN RING NIGHTREIGN,FromSoftware,2622380,
-rust,Rust,Facepunch Studios,252490,
-apex-legends,Apex Legends,Respawn,1172470,
-marvel-rivals,Marvel Rivals,NetEase Games,2767030,
-deltarune,DELTARUNE,tobyfox,1671210,
-grand-theft-auto-v,Grand Theft Auto V,Rockstar North,271590,
-call-of-duty,Call of Duty,Treyarch,1938090,
-naraka-bladepoint,NARAKA: BLADEPOINT,24 Entertainment,1203220,
-baldurs-gate-3,Baldur's Gate 3,Larian Studios,1086940,
-helldivers-2,HELLDIVERS 2,Arrowhead Game Studios,553850,
-tom-clancys-rainbow-six-siege-x,Tom Clancy's Rainbow Six Siege X,Ubisoft Montreal,359550,
-stardew-valley,Stardew Valley,ConcernedApe,413150,
-war-thunder,War Thunder,Gaijin Entertainment,236390,
-football-manager-2024,Football Manager 2024,Sports Interactive,2252570,
-dead-by-daylight,Dead by Daylight,Behaviour Interactive Inc.,381210,
-team-fortress-2,Team Fortress 2,Valve,440,
-ea-sports-fc-25,EA SPORTS FC 25,EA Canada,2669320,
-dayz,DayZ,Bohemia Interactive,221100,
-warframe,Warframe,Digital Extremes,230410,
-vrchat,VRChat,VRChat Inc.,438100,
-repo,R.E.P.O.,semiwork,3241660,
-hearts-of-iron-iv,Hearts of Iron IV,Paradox Development Studio,394360,
-dont-starve-together,Don't Starve Together,Klei Entertainment,322330,
-red-dead-redemption-2,Red Dead Redemption 2,Rockstar Games,1174180,
-elden-ring,ELDEN RING,FromSoftware,1245620,
-clair-obscur-expedition-33,Clair Obscur: Expedition 33,Sandfall Interactive,1903340,
-geometry-dash,Geometry Dash,RobTop Games,322170,
-nba-2k25,NBA 2K25,Visual Concepts,2878980,
-payday-2,PAYDAY 2,OVERKILL - a Starbreeze Studio.,218620,
-sid-meiers-civilization-vi,Sid Meier's Civilization VI,Firaxis Games,289070,
-the-sims-4,The Sims 4,Maxis,1222670,
-left-4-dead-2,Left 4 Dead 2,Valve,550,
-the-elder-scrolls-v-skyrim-special-edition,The Elder Scrolls V: Skyrim Special Edition,Bethesda Game Studios,489830,
-destiny-2,Destiny 2,Bungie,1085660,
-terraria,Terraria,Re-Logic,105600,
-project-zomboid,Project Zomboid,The Indie Stone,108600,
-schedule-i,Schedule I,TVGS,3164500,
-cyberpunk-2077,Cyberpunk 2077,CD PROJEKT RED,1091500,
-ark-survival-evolved,ARK: Survival Evolved,Studio Wildcard,346110,
-rocket-league,Rocket League,Psyonix LLC,252950,
-final-fantasy-xiv-online,FINAL FANTASY XIV Online,Square Enix,39210,
-fantasy-life-i-the-girl-who-steals-time,FANTASY LIFE i: The Girl Who Steals Time,LEVEL5 Inc.,2993780,
-rimworld,RimWorld,Ludeon Studios,294100,
-garrys-mod,Garry's Mod,Facepunch Studios,4000,
-palworld,Palworld,Pocketpair,1623730,
-lost-ark,Lost Ark,Smilegate RPG,1599340,
-euro-truck-simulator-2,Euro Truck Simulator 2,SCS Software,227300,
-balatro,Balatro,LocalThunk,2379780,
-7-days-to-die,7 Days to Die,The Fun Pimps,251570,
-total-war-warhammer-iii,Total War: WARHAMMER III,CREATIVE ASSEMBLY,1142710,
-path-of-exile-2,Path of Exile 2,Grinding Gear Games,2694490,
-factorio,Factorio,Wube Software LTD.,427520,
-the-elder-scrolls-online,The Elder Scrolls Online,ZeniMax Online Studios,306130,
-the-witcher-3-wild-hunt,The Witcher 3: Wild Hunt,CD PROJEKT RED,292030,
-beamngdrive,BeamNG.drive,BeamNG,284160,
-slay-the-spire,Slay the Spire,Mega Crit,646570,
-black-myth-wukong,Black Myth: Wukong,Game Science,2358720,
-russian-fishing-4,Russian Fishing 4,FishSoft LLC,766570,
-street-fighter-6,Street Fighter 6,CAPCOM Co.,1364780,
-the-binding-of-isaac-rebirth,The Binding of Isaac: Rebirth,Nicalis,250900,
-mount-blade-ii-bannerlord,Mount & Blade II: Bannerlord,TaleWorlds Entertainment,261550,
-valheim,Valheim,Iron Gate AB,892970,
-the-elder-scrolls-iv-oblivion-remastered,The Elder Scrolls IV: Oblivion Remastered,Bethesda Game Studios,2623190,
-black-desert,Black Desert,Pearl Abyss,582660,
-crusader-kings-iii,Crusader Kings III,Paradox Development Studio,1158310,
-brawlhalla,Brawlhalla,Blue Mammoth Games,291550,
-stellaris,Stellaris,Paradox Development Studio,281990,
-age-of-empires-ii-definitive-edition,Age of Empires II: Definitive Edition,World's Edge,813780,
-farming-simulator-25,Farming Simulator 25,GIANTS Software,2300320,
-efootball,eFootball,KONAMI,1665460,
-satisfactory,Satisfactory,Coffee Stain Studios,526870,
-monster-hunter-wilds,Monster Hunter Wilds,CAPCOM Co.,2246340,
-europa-universalis-iv,Europa Universalis IV,Paradox Development Studio,236850,
-eternal-return,Eternal Return,Nimble Neuron,1049590,
-no-mans-sky,No Man's Sky,Hello Games,275850,
-sid-meiers-civilization-v,Sid Meier's Civilization V,Firaxis Games,8930,
-ark-survival-ascended,ARK: Survival Ascended,Studio Wildcard,2399830,
-monster-hunter-world,Monster Hunter: World,CAPCOM Co.,582010,
-arma-reforger,Arma Reforger,Bohemia Interactive,1874880,
-fallout-4,Fallout 4,Bethesda Game Studios,377160,
-v-rising,V Rising,Stunlock Studios,1604030,
-enshrouded,Enshrouded,Keen Games GmbH,1203620,
-unturned,Unturned,Smartly Dressed Games,304930,
-forza-horizon-5,Forza Horizon 5,Playground Games,1551360,
-phasmophobia,Phasmophobia,Kinetic Games,739630,
-tom-clancys-the-division-2,Tom Clancy's The Division 2,Ubisoft,2221490,
-star-wars-battlefront-ii,STAR WARS Battlefront II,DICE,1237950,
-squad,Squad,Offworld,393380,
-assetto-corsa,Assetto Corsa,Kunos Simulazioni,244210,
-cities-skylines,Cities: Skylines,Colossal Order,255710,
-diablo-iv,Diablo IV,Blizzard Entertainment,2344520,
-fallout-76,Fallout 76,Bethesda Game Studios,1151340,
-borderlands-2,Borderlands 2,Gearbox Software,49520,
-scum,SCUM,Gamepires,513710,
-world-of-warships,World of Warships,Wargaming Group Limited,552990,
-albion-online,Albion Online,Sandbox Interactive GmbH,761890,
-tainted-grail-the-fall-of-avalon,Tainted Grail: The Fall of Avalon,Questline,1466060,
-roadcraft,RoadCraft,Saber Interactive,2104890,
-maplestory,MapleStory,NEXON Korea Corporation,216150,
-risk-of-rain-2,Risk of Rain 2,Hopoo Games,632360,
-sultans-game,Sultan's Game,Double Cross,3117820,
-oxygen-not-included,Oxygen Not Included,Klei Entertainment,457140,
-gray-zone-warfare,Gray Zone Warfare,MADFINGER Games,2479810,
-bloons-td-6,Bloons TD 6,Ninja Kiwi,960090,
-the-planet-crafter,The Planet Crafter,Miju Games,1284190,
-counter-strike,Counter-Strike,Valve,10,
-warhammer-40000-darktide,"Warhammer 40,000: Darktide",Fatshark,1361210,
-arma-3,Arma 3,Bohemia Interactive,107410,
-age-of-empires-iv-anniversary-edition,Age of Empires IV: Anniversary Edition,World's Edge,1466860,
-kingdom-come-deliverance-ii,Kingdom Come: Deliverance II,Warhorse Studios,1771300,
-9-kings,9 Kings,Sad Socket,2784470,
-warhammer-40000-space-marine-2,"Warhammer 40,000: Space Marine 2",Saber Interactive,2183900,
-sekiro-shadows-die-twice-goty-edition,Sekiro: Shadows Die Twice - GOTY Edition,FromSoftware,814380,
-american-truck-simulator,American Truck Simulator,SCS Software,270880,
-star-wars-the-old-republic,STAR WARS: The Old Republic,Broadsword,1286830,
-monster-train-2,Monster Train 2,Shiny Shoe,2742830,
-brotato,Brotato,Blobfish,1942280,
-battlefield-v,Battlefield V,DICE,1238810,
-battlefield-1,Battlefield 1,DICE,1238840,
-hunt-showdown-1896,Hunt: Showdown 1896,Crytek,594650,
-lethal-company,Lethal Company,Zeekerss,1966720,
-counter-strike-source,Counter-Strike: Source,Valve,240,
-the-isle,The Isle,Afterthought LLC,376210,
-sid-meiers-civilization-vii,Sid Meier's Civilization VII,Firaxis Games,1295660,
-rune-factory-guardians-of-azuma,Rune Factory: Guardians of Azuma,Marvelous Inc.,2864560,
-last-epoch,Last Epoch,Eleventh Hour Games,899770,
-hogwarts-legacy,Hogwarts Legacy,Avalanche Software,990080,
-world-of-tanks-blitz,World of Tanks Blitz,Wargaming Group Limited,444200,
-conan-exiles,Conan Exiles,Funcom,440900,
-new-world-aeternum,New World: Aeternum,Amazon Games,1063730,
-split-fiction,Split Fiction,Hazelight Studios,2001120,
-sea-of-thieves-2025-edition,Sea of Thieves: 2025 Edition,Rare Ltd,1172620,
-call-of-duty-black-ops-iii,Call of Duty: Black Ops III,Treyarch,311210,
-kenshi,Kenshi,Lo-Fi Games,233860,
-cities-skylines-ii,Cities: Skylines II,Colossal Order,949230,
-f1-25,F1 25,Codemasters,3059520,
-aimlabs,Aimlabs,Statespace,714010,
-deep-rock-galactic,Deep Rock Galactic,Ghost Ship Games,548430,
-palia,Palia,Singularity 6 Corporation,2707930,
-tabletop-simulator,Tabletop Simulator,Berserk Games,286160,
-it-takes-two,It Takes Two,Hazelight Studios,1426210,
-persona-5-royal,Persona 5 Royal,ATLUS,1687950,
-smite-2,SMITE 2,Titan Forge Games,2437170,
-dying-light,Dying Light,Techland,239140,
-hollow-knight,Hollow Knight,Team Cherry,367520,
-elite-dangerous,Elite Dangerous,Frontier Developments,359320,
-kards-the-ww2-card-game,KARDS - The WW2 Card Game,1939 Games,544810,
-supermarket-together,Supermarket Together,DeadDevsTellNoLies,2709570,
-raft,Raft,Redbeet Interactive,648800,
-scp-secret-laboratory,SCP: Secret Laboratory,Northwood Studios,700330,
-path-of-exile,Path of Exile,Grinding Gear Games,238960,
-victoria-3,Victoria 3,Paradox Development Studio,529340,
-killing-floor-2,Killing Floor 2,Tripwire Interactive,232090,
-total-war-three-kingdoms,Total War: THREE KINGDOMS,CREATIVE ASSEMBLY,779340,
-people-playground,People Playground,mestiez,1118200,
-sons-of-the-forest,Sons Of The Forest,Endnight Games Ltd,1326470,
-tekken-8,TEKKEN 8,Bandai Namco Studios Inc.,1778820,
-the-last-of-us-part-ii-remastered,The Last of Us Part II Remastered,Naughty Dog LLC,2531310,
-captain-of-industry,Captain of Industry,MaFi Games,1594320,
-blue-prince,Blue Prince,Dogubomb,1569580,
-dark-souls-iii,DARK SOULS III,FromSoftware,374320,
-popucom,POPUCOM,Hypergryph,2543180,
-ready-or-not,Ready or Not,VOID Interactive,1144200,
-dying-light-2-stay-human-reloaded-edition,Dying Light 2 Stay Human: Reloaded Edition,Techland,534380,
-space-engineers,Space Engineers,Keen Software House,244850,
-the-last-of-us-part-i,The Last of Us Part I,Naughty Dog LLC,1888930,
-tale-of-immortal,Tale of Immortal,鬼谷工作室,1468810,
-total-war-rome-ii-emperor-edition,Total War: ROME II - Emperor Edition,CREATIVE ASSEMBLY,214950,
-fallout-new-vegas,Fallout: New Vegas,Obsidian Entertainment,22380,
-timberborn,Timberborn,Mechanistry,1062090,
-world-of-tanks,World of Tanks,Wargaming Group Limited,1407200,
-darkest-dungeon,Darkest Dungeon,Red Hook Studios,262060,
-among-us,Among Us,Innersloth,945360,
-resident-evil-4,Resident Evil 4,CAPCOM Co.,2050650,
-the-outlast-trials,The Outlast Trials,Red Barrels,1304930,
-starfield,Starfield,Bethesda Game Studios,1716740,
-eve-online,EVE Online,CCP,8500,
-core-keeper,Core Keeper,Pugstorm,1621690,
-monster-hunter-rise,MONSTER HUNTER RISE,CAPCOM Co.,1446780,
-mx-bikes,MX Bikes,PiBoSo,655500,
-disney-dreamlight-valley,Disney Dreamlight Valley,Gameloft,1401590,
-warhammer-40000-rogue-trader,"Warhammer 40,000: Rogue Trader",Owlcat Games,2186680,
-the-spell-brigade,The Spell Brigade,Bolt Blaster Games,2904000,
-doom-the-dark-ages,DOOM: The Dark Ages,id Software,3017860,
-divinity-original-sin-2-definitive-edition,Divinity: Original Sin 2 - Definitive Edition,Larian Studios,435150,
-transport-fever-2,Transport Fever 2,Urban Games,1066780,
-tower-of-babel-survivors-of-chaos,Tower of Babel: Survivors of Chaos,NANOO,2665680,
-hell-let-loose,Hell Let Loose,Expression Games,686810,
-dave-the-diver,DAVE THE DIVER,MINTROCKET,1868140,
-drive-beyond-horizons,Drive Beyond Horizons,Drive Beyond Horizons,2625420,
-halo-the-master-chief-collection,Halo: The Master Chief Collection,343 Industries,976730,
-undertale,Undertale,tobyfox,391540,
-your-chronicle,Your Chronicle,Samurai Games,1546320,
-car-dealer-simulator,Car Dealer Simulator,Garage Monkeys,2404880,
-shop-titans,Shop Titans,Kabam Games,1258080,
-taiku-mansion,TAIKU MANSION,KITATUS STUDIOS,529760,
-guild-wars-2,Guild Wars 2,ArenaNet,1284210,
-microsoft-flight-simulator-2020-40th-anniversary-edition,Microsoft Flight Simulator (2020) 40th Anniversary Edition,Asobo Studio,1250410,
-astral-party,Astral Party,STAR ENGINE PROJECT,2622000,
-borderlands-3,Borderlands 3,Gearbox Software,397540,
-snowrunner,SnowRunner,Saber Interactive,1465360,
-xcom-2,XCOM 2,Firaxis Games,268500,
-ultrakill,ULTRAKILL,Arsi Hakita Patala,1229490,
-party-animals,Party Animals,Recreate Games,1260320,
-guilty-as-sock,Guilty as Sock!,Demon Max,3400930,
-mount-blade-warband,Mount & Blade: Warband,TaleWorlds Entertainment,48700,
-age-of-empires-iii-definitive-edition,Age of Empires III: Definitive Edition,World's Edge,933110,
-vampire-survivors,Vampire Survivors,poncle,1794680,
-stumble-guys,Stumble Guys,Scopely,1677740,
-crab-game,Crab Game,Dani,1782210,
-the-forest,The Forest,Endnight Games Ltd,242760,
-dark-souls-remastered,DARK SOULS: REMASTERED,QLOC,570940,
-super-distro,SUPER DISTRO,KITATUS STUDIOS,364690,
-foxhole,Foxhole,Siege Camp,505460,
-star-wars-empire-at-war-gold-pack,STAR WARS Empire at War - Gold Pack,Petroglyph,32470,
-total-war-medieval-ii-definitive-edition,Total War: MEDIEVAL II - Definitive Edition,CREATIVE ASSEMBLY,4700,
-anno-1800,Anno 1800,Ubisoft Mainz,916440,
-fishing-planet,Fishing Planet,Fishing Planet LLC,380600,
-battlefield-2042,Battlefield 2042,DICE,1517290,
-soulmask,Soulmask,CampFire Studio,2646460,
-they-are-billions,They Are Billions,Numantian Games,644930,
-subnautica,Subnautica,Unknown Worlds Entertainment,264710,
-dyson-sphere-program,Dyson Sphere Program,Youthcat Studio,1366540,
-ddnet,DDNet,DDNet Team,412220,
-plants-vs-zombies-goty-edition,Plants vs. Zombies GOTY Edition,PopCap Games,3590,
-hitman-world-of-assassination,HITMAN World of Assassination,IO Interactive A/S,1659040,
-game-of-thrones-kingsroad,Game of Thrones: Kingsroad,Netmarble Neo,3183280,
-assassins-creed-odyssey,Assassin's Creed Odyssey,Ubisoft Quebec,812140,
-workers-resources-soviet-republic,Workers & Resources: Soviet Republic,3Division,784150,
-ravenswatch,Ravenswatch,Passtech Games,2071280,
-the-long-dark,The Long Dark,Hinterland Studio Inc.,305620,
-enlisted,Enlisted,Darkflow Software,2051620,
-dead-cells,Dead Cells,Motion Twin,588650,
-powerwash-simulator,PowerWash Simulator,FuturLab,1290000,
-house-flipper-2,House Flipper 2,Frozen District,1190970,
-legend-of-heroes-three-kingdoms,Legend of Heroes: Three Kingdoms,Free Wing,3020510,
-cash-cleaner-simulator,Cash Cleaner Simulator,Mind Control Games,2488370,
-kingdom-come-deliverance,Kingdom Come: Deliverance,Warhorse Studios,379430,
-planet-zoo,Planet Zoo,Frontier Developments,703080,
-runescape,RuneScape,Jagex Ltd,1343400,
-supermarket-simulator,Supermarket Simulator,Nokta Games,2670630,
-guilty-gear-strive,GUILTY GEAR -STRIVE-,Arc System Works,1384160,
-league-of-legends,League of Legends,Riot Games,,
-valorant,Valorant,Riot Games,,
-fortnite,Fortnite,Epic Games,,
-minecraft,Minecraft,Mojang Studios,,
-world-of-warcraft,World of Warcraft,Blizzard Entertainment,,
+counter-strike-2,Counter-Strike 2,Valve,730,32399
+dota-2,Dota 2,Valve,570,29595
+pubg-battlegrounds,PUBG: BATTLEGROUNDS,PUBG Corporation,578080,493057
+elden-ring-nightreign,ELDEN RING NIGHTREIGN,FromSoftware,2622380,982348888
+rust,Rust,Facepunch Studios,252490,263490
+apex-legends,Apex Legends,Respawn,1172470,511224
+marvel-rivals,Marvel Rivals,NetEase Games,2767030,1264310518
+deltarune,DELTARUNE,tobyfox,1671210,965771331
+grand-theft-auto-v,Grand Theft Auto V,Rockstar North,271590,32982
+call-of-duty-warzone,Call of Duty: Warzone,Activision,1938090,512710
+naraka-bladepoint,NARAKA: BLADEPOINT,24 Entertainment,1203220,515474
+baldurs-gate-3,Baldur's Gate 3,Larian Studios,1086940,512923
+helldivers-2,HELLDIVERS 2,Arrowhead Game Studios,553850,766571430
+tom-clancys-rainbow-six-siege,Tom Clancy's Rainbow Six Siege,Ubisoft Montreal,359550,460630
+stardew-valley,Stardew Valley,ConcernedApe,413150,490744
+war-thunder,War Thunder,Gaijin Entertainment,236390,66366
+football-manager-2024,Football Manager 2024,Sports Interactive,2252570,2091165871
+dead-by-daylight,Dead by Daylight,Behaviour Interactive Inc.,381210,491487
+team-fortress-2,Team Fortress 2,Valve,440,16676
+ea-sports-fc-25,EA SPORTS FC 25,EA Canada,2669320,2011938005
+dayz,DayZ,Bohemia Interactive,221100,65632
+warframe,Warframe,Digital Extremes,230410,66170
+vrchat,VRChat,VRChat Inc.,438100,499003
+repo,R.E.P.O.,semiwork,3241660,1294658629
+hearts-of-iron-iv,Hearts of Iron IV,Paradox Development Studio,394360,459327
+dont-starve-together,Don't Starve Together,Klei Entertainment,322330,488634
+red-dead-redemption-ii,Red Dead Redemption II,Rockstar Games,1174180,493959
+elden-ring,ELDEN RING,FromSoftware,1245620,512953
+clair-obscur-expedition-33,Clair Obscur: Expedition 33,Sandfall Interactive,1903340,36799602
+geometry-dash,Geometry Dash,RobTop Games,322170,460951
+nba-2k25,NBA 2K25,Visual Concepts,2878980,2068583461
+payday-2,PAYDAY 2,OVERKILL - a Starbreeze Studio.,218620,65997
+sid-meiers-civilization-vi,Sid Meier's Civilization VI,Firaxis Games,289070,492553
+the-sims-4,The Sims 4,Maxis,1222670,369252
+left-4-dead-2,Left 4 Dead 2,Valve,550,24193
+the-elder-scrolls-v-skyrim-special-edition,The Elder Scrolls V: Skyrim Special Edition,Bethesda Game Studios,489830,30028
+destiny-2,Destiny 2,Bungie,1085660,497057
+terraria,Terraria,Re-Logic,105600,31376
+project-zomboid,Project Zomboid,The Indie Stone,108600,31339
+schedule-i,Schedule I,TVGS,3164500,1584836809
+cyberpunk-2077,Cyberpunk 2077,CD PROJEKT RED,1091500,65876
+ark-survival-evolved,ARK: Survival Evolved,Studio Wildcard,346110,489635
+rocket-league,Rocket League,Psyonix LLC,252950,30921
+final-fantasy-xiv-online,FINAL FANTASY XIV Online,Square Enix,39210,24241
+fantasy-life-i-the-girl-who-steals-time,FANTASY LIFE i: The Girl Who Steals Time,LEVEL5 Inc.,2993780,702495428
+rimworld,RimWorld,Ludeon Studios,294100,394568
+garrys-mod,Garry's Mod,Facepunch Studios,4000,18846
+palworld,Palworld,Pocketpair,1623730,1036710512
+lost-ark,Lost Ark,Smilegate RPG,1599340,490100
+euro-truck-simulator-2,Euro Truck Simulator 2,SCS Software,227300,75467
+balatro,Balatro,LocalThunk,2379780,745589378
+7-days-to-die,7 Days to Die,The Fun Pimps,251570,271304
+total-war-warhammer-iii,Total War: WARHAMMER III,CREATIVE ASSEMBLY,1142710,1913410799
+path-of-exile-2,Path of Exile 2,Grinding Gear Games,2694490,1702520304
+factorio,Factorio,Wube Software LTD.,427520,130942
+the-elder-scrolls-online,The Elder Scrolls Online,ZeniMax Online Studios,306130,65654
+the-witcher-3-wild-hunt,The Witcher 3: Wild Hunt,CD PROJEKT RED,292030,115977
+beamngdrive,BeamNG.drive,BeamNG,284160,491878
+slay-the-spire,Slay the Spire,Mega Crit,646570,496902
+black-myth-wukong,Black Myth: Wukong,Game Science,2358720,519291
+russian-fishing-4,Russian Fishing 4,FishSoft LLC,766570,497304
+street-fighter-6,Street Fighter 6,CAPCOM Co.,1364780,55453844
+the-binding-of-isaac-rebirth,The Binding of Isaac: Rebirth,Nicalis,250900,847929177
+mount-blade-ii-bannerlord,Mount & Blade II: Bannerlord,TaleWorlds Entertainment,261550,68351
+valheim,Valheim,Iron Gate AB,892970,508455
+the-elder-scrolls-iv-oblivion-remastered,The Elder Scrolls IV: Oblivion Remastered,Bethesda Game Studios,2623190,1984929743
+black-desert,Black Desert,Pearl Abyss,582660,386821
+crusader-kings-iii,Crusader Kings III,Paradox Development Studio,1158310,514888
+brawlhalla,Brawlhalla,Blue Mammoth Games,291550,460316
+stellaris,Stellaris,Paradox Development Studio,281990,491572
+age-of-empires-ii-definitive-edition,Age of Empires II: Definitive Edition,World's Edge,813780,13389
+farming-simulator-25,Farming Simulator 25,GIANTS Software,2300320,262437666
+efootball,eFootball,KONAMI,1665460,331373906
+satisfactory,Satisfactory,Coffee Stain Studios,526870,506456
+monster-hunter-wilds,Monster Hunter Wilds,CAPCOM Co.,2246340,1286077738
+europa-universalis-iv,Europa Universalis IV,Paradox Development Studio,236850,67584
+eternal-return,Eternal Return,Nimble Neuron,1049590,512864
+no-mans-sky,No Man's Sky,Hello Games,275850,458781
+sid-meiers-civilization-v,Sid Meier's Civilization V,Firaxis Games,8930,27103
+ark-survival-ascended,ARK: Survival Ascended,Studio Wildcard,2399830,735904419
+monster-hunter-world,Monster Hunter: World,CAPCOM Co.,582010,497467
+arma-reforger,Arma Reforger,Bohemia Interactive,1874880,478407715
+fallout-4,Fallout 4,Bethesda Game Studios,377160,489776
+v-rising,V Rising,Stunlock Studios,1604030,766548668
+enshrouded,Enshrouded,Keen Games GmbH,1203620,737987407
+unturned,Unturned,Smartly Dressed Games,304930,417932
+forza-horizon-5,Forza Horizon 5,Playground Games,1551360,1757732267
+phasmophobia,Phasmophobia,Kinetic Games,739630,518184
+tom-clancys-the-division-2,Tom Clancy's The Division 2,Ubisoft,2221490,504463
+star-wars-battlefront-ii,STAR WARS Battlefront II,DICE,1237950,492546
+squad,Squad,Offworld,393380,488479
+assetto-corsa,Assetto Corsa,Kunos Simulazioni,244210,313197
+cities-skylines,Cities: Skylines,Colossal Order,255710,461449
+diablo-iv,Diablo IV,Blizzard Entertainment,2344520,515024
+fallout-76,Fallout 76,Bethesda Game Studios,1151340,506246
+borderlands-2,Borderlands 2,Gearbox Software,49520,32345
+scum,SCUM,Gamepires,513710,495811
+world-of-warships,World of Warships,Wargaming Group Limited,552990,32502
+albion-online,Albion Online,Sandbox Interactive GmbH,761890,417528
+tainted-grail-the-fall-of-avalon,Tainted Grail: The Fall of Avalon,Questline,1466060,515586
+roadcraft,RoadCraft,Saber Interactive,2104890,1106985046
+maplestory,MapleStory,NEXON Korea Corporation,216150,19976
+risk-of-rain-2,Risk of Rain 2,Hopoo Games,632360,509110
+sultans-game,Sultan's Game,Double Cross,3117820,1162610740
+oxygen-not-included,Oxygen Not Included,Klei Entertainment,457140,493815
+gray-zone-warfare,Gray Zone Warfare,MADFINGER Games,2479810,2106425216
+bloons-td-6,Bloons TD 6,Ninja Kiwi,960090,508292
+the-planet-crafter,The Planet Crafter,Miju Games,1284190,1311010677
+warhammer-40000-darktide,"Warhammer 40,000: Darktide",Fatshark,1361210,518873
+arma-3,Arma 3,Bohemia Interactive,107410,31750
+age-of-empires-iv,Age of Empires IV,World's Edge,1466860,498482
+kingdom-come-deliverance-ii,Kingdom Come: Deliverance II,Warhorse Studios,1771300,344035090
+9-kings,9 Kings,Sad Socket,2784470,1756782008
+warhammer-40000-space-marine-2,"Warhammer 40,000: Space Marine 2",Saber Interactive,2183900,223869970
+sekiro-shadows-die-twice,Sekiro: Shadows Die Twice,FromSoftware,814380,506415
+american-truck-simulator,American Truck Simulator,SCS Software,270880,488910
+star-wars-the-old-republic,STAR WARS: The Old Republic,Broadsword,1286830,21934
+monster-train-2,Monster Train 2,Shiny Shoe,2742830,504371622
+brotato,Brotato,Blobfish,1942280,743214338
+battlefield-v,Battlefield V,DICE,1238810,504199
+battlefield-1,Battlefield 1,DICE,1238840,488500
+hunt-showdown-1896,Hunt: Showdown 1896,Crytek,594650,500188
+lethal-company,Lethal Company,Zeekerss,1966720,2085980140
+counter-strike-source,Counter-Strike: Source,Valve,240,730238586
+the-isle,The Isle,Afterthought LLC,376210,490948
+sid-meiers-civilization-vii,Sid Meier's Civilization VII,Firaxis Games,1295660,414822821
+rune-factory-guardians-of-azuma,Rune Factory: Guardians of Azuma,Marvelous Inc.,2864560,126493842
+last-epoch,Last Epoch,Eleventh Hour Games,899770,503932
+hogwarts-legacy,Hogwarts Legacy,Avalanche Software,990080,1095275650
+world-of-tanks-blitz,World of Tanks Blitz,Wargaming Group Limited,444200,140035
+conan-exiles,Conan Exiles,Funcom,440900,493551
+new-world-aeternum,New World: Aeternum,Amazon Games,1063730,493597
+split-fiction,Split Fiction,Hazelight Studios,2001120,1354355809
+sea-of-thieves,Sea of Thieves,Rare Ltd,1172620,490377
+call-of-duty-black-ops-iii,Call of Duty: Black Ops III,Treyarch,311210,489401
+kenshi,Kenshi,Lo-Fi Games,233860,34025
+cities-skylines-ii,Cities: Skylines II,Colossal Order,949230,556907291
+f1-25,F1 25,Codemasters,3059520,93798731
+aimlabs,Aimlabs,Statespace,714010,503456
+deep-rock-galactic,Deep Rock Galactic,Ghost Ship Games,548430,494839
+palia,Palia,Singularity 6 Corporation,2707930,982017546
+tabletop-simulator,Tabletop Simulator,Berserk Games,286160,417749
+it-takes-two,It Takes Two,Hazelight Studios,1426210,2070421261
+persona-5-royal,Persona 5 Royal,ATLUS,1687950,511864
+smite-2,SMITE 2,Titan Forge Games,2437170,2094865572
+dying-light,Dying Light,Techland,239140,369380
+hollow-knight,Hollow Knight,Team Cherry,367520,490147
+elite-dangerous,Elite Dangerous,Frontier Developments,359320,80607
+supermarket-together,Supermarket Together,DeadDevsTellNoLies,2709570,942317893
+raft,Raft,Redbeet Interactive,648800,494925
+scp-secret-laboratory,SCP: Secret Laboratory,Northwood Studios,700330,498744
+path-of-exile,Path of Exile,Grinding Gear Games,238960,29307
+victoria-3,Victoria 3,Paradox Development Studio,529340,1768423951
+killing-floor-2,Killing Floor 2,Tripwire Interactive,232090,460508
+total-war-three-kingdoms,Total War: THREE KINGDOMS,CREATIVE ASSEMBLY,779340,502377
+people-playground,People Playground,mestiez,1118200,518611
+sons-of-the-forest,Sons Of The Forest,Endnight Games Ltd,1326470,515479
+tekken-8,TEKKEN 8,Bandai Namco Studios Inc.,1778820,538054672
+the-last-of-us-part-ii-remastered,The Last of Us Part II Remastered,Naughty Dog LLC,2531310,1535225577
+captain-of-industry,Captain of Industry,MaFi Games,1594320,1697689354
+blue-prince,Blue Prince,Dogubomb,1569580,2013539540
+dark-souls-iii,DARK SOULS III,FromSoftware,374320,490292
+popucom,POPUCOM,Hypergryph,2543180,478468002
+ready-or-not,Ready or Not,VOID Interactive,1144200,511701
+dying-light-2-stay-human,Dying Light 2 Stay Human,Techland,534380,506410
+space-engineers,Space Engineers,Keen Software House,244850,391475
+the-last-of-us-part-i,The Last of Us Part I,Naughty Dog LLC,1888930,778386489
+tale-of-immortal,Tale of Immortal,鬼谷工作室,1468810,731378006
+total-war-rome-ii,Total War: ROME II,CREATIVE ASSEMBLY,214950,66246
+fallout-new-vegas,Fallout: New Vegas,Obsidian Entertainment,22380,23453
+timberborn,Timberborn,Mechanistry,1062090,514891
+world-of-tanks,World of Tanks,Wargaming Group Limited,1407200,27546
+darkest-dungeon,Darkest Dungeon,Red Hook Studios,262060,458353
+among-us,Among Us,Innersloth,945360,510218
+resident-evil-4,Resident Evil 4,CAPCOM Co.,2050650,1468
+the-outlast-trials,The Outlast Trials,Red Barrels,1304930,518144
+starfield,Starfield,Bethesda Game Studios,1716740,506438
+eve-online,EVE Online,CCP,8500,13263
+core-keeper,Core Keeper,Pugstorm,1621690,1728683467
+monster-hunter-rise,MONSTER HUNTER RISE,CAPCOM Co.,1446780,1275666892
+mx-bikes,MX Bikes,PiBoSo,655500,500405
+disney-dreamlight-valley,Disney Dreamlight Valley,Gameloft,1401590,1515862749
+warhammer-40000-rogue-trader,"Warhammer 40,000: Rogue Trader",Owlcat Games,2186680,1173887206
+the-spell-brigade,The Spell Brigade,Bolt Blaster Games,2904000,1021622343
+doom-the-dark-ages,DOOM: The Dark Ages,id Software,3017860,936822813
+divinity-original-sin-2-definitive-edition,Divinity: Original Sin 2 - Definitive Edition,Larian Studios,435150,490644
+transport-fever-2,Transport Fever 2,Urban Games,1066780,512337
+tower-of-babel-survivors-of-chaos,Tower of Babel: Survivors of Chaos,NANOO,2665680,684805970
+hell-let-loose,Hell Let Loose,Expression Games,686810,497440
+dave-the-diver,DAVE THE DIVER,MINTROCKET,1868140,1470211036
+drive-beyond-horizons,Drive Beyond Horizons,Drive Beyond Horizons,2625420,1801167658
+halo-the-master-chief-collection,Halo: The Master Chief Collection,343 Industries,976730,417969
+undertale,Undertale,tobyfox,391540,490713
+your-chronicle,Your Chronicle,Samurai Games,1546320,951740404
+car-dealer-simulator,Car Dealer Simulator,Garage Monkeys,2404880,744803366
+shop-titans,Shop Titans,Kabam Games,1258080,511629
+taiku-mansion,TAIKU MANSION,KITATUS STUDIOS,529760,499992
+guild-wars-2,Guild Wars 2,ArenaNet,1284210,19357
+microsoft-flight-simulator,Microsoft Flight Simulator,Asobo Studio,1250410,7193
+astral-party,Astral Party,STAR ENGINE PROJECT,2622000,621521040
+borderlands-3,Borderlands 3,Gearbox Software,397540,491318
+snowrunner,SnowRunner,Saber Interactive,1465360,515066
+xcom-2,XCOM 2,Firaxis Games,268500,489767
+ultrakill,ULTRAKILL,Arsi Hakita Patala,1229490,514166
+party-animals,Party Animals,Recreate Games,1260320,518186
+guilty-as-sock,Guilty as Sock!,Demon Max,3400930,1418178189
+mount-blade-warband,Mount & Blade: Warband,TaleWorlds Entertainment,48700,23166
+age-of-empires-iii,Age of Empires III,World's Edge,933110,7830
+vampire-survivors,Vampire Survivors,poncle,1794680,1833694612
+stumble-guys,Stumble Guys,Scopely,1677740,1312214340
+crab-game,Crab Game,Dani,1782210,673760473
+the-forest,The Forest,Endnight Games Ltd,242760,1980709655
+dark-souls-remastered,DARK SOULS: REMASTERED,QLOC,570940,1122982998
+super-distro,SUPER DISTRO,KITATUS STUDIOS,364690,930291585
+foxhole,Foxhole,Siege Camp,505460,493388
+star-wars-empire-at-war,STAR WARS Empire at War,Petroglyph,32470,4222
+total-war-medieval-ii,Total War: MEDIEVAL II,CREATIVE ASSEMBLY,4700,4293
+anno-1800,Anno 1800,Ubisoft Mainz,916440,498638
+fishing-planet,Fishing Planet,Fishing Planet LLC,380600,491117
+battlefield-2042,Battlefield 2042,DICE,1517290,514974
+soulmask,Soulmask,CampFire Studio,2646460,1462834331
+they-are-billions,They Are Billions,Numantian Games,644930,499132
+subnautica,Subnautica,Unknown Worlds Entertainment,264710,460090
+dyson-sphere-program,Dyson Sphere Program,Youthcat Studio,1366540,621254945
+ddnet,DDNet,DDNet Team,412220,519260
+plants-vs-zombies,Plants vs. Zombies,PopCap Games,3590,1076293803
+hitman-world-of-assassination,HITMAN World of Assassination,IO Interactive A/S,1659040,1780647523
+game-of-thrones-kingsroad,Game of Thrones: Kingsroad,Netmarble Neo,3183280,1263723897
+assassins-creed-odyssey,Assassin's Creed Odyssey,Ubisoft Quebec,812140,506274
+workers-resources-soviet-republic,Workers & Resources: Soviet Republic,3Division,784150,511780
+ravenswatch,Ravenswatch,Passtech Games,2071280,1427027827
+the-long-dark,The Long Dark,Hinterland Studio Inc.,305620,418016
+enlisted,Enlisted,Darkflow Software,2051620,505257
+dead-cells,Dead Cells,Motion Twin,588650,495961
+powerwash-simulator,PowerWash Simulator,FuturLab,1290000,519103
+house-flipper-2,House Flipper 2,Frozen District,1190970,1414211237
+legend-of-heroes-three-kingdoms,Legend of Heroes: Three Kingdoms,Free Wing,3020510,813458697
+cash-cleaner-simulator,Cash Cleaner Simulator,Mind Control Games,2488370,2097043667
+kingdom-come-deliverance,Kingdom Come: Deliverance,Warhorse Studios,379430,458912
+planet-zoo,Planet Zoo,Frontier Developments,703080,512341
+runescape,RuneScape,Jagex Ltd,1343400,2083
+supermarket-simulator,Supermarket Simulator,Nokta Games,2670630,252812003
+guilty-gear-strive,GUILTY GEAR -STRIVE-,Arc System Works,1384160,517159
+league-of-legends,League of Legends,Riot Games,,21779
+valorant,Valorant,Riot Games,,516575
+fortnite,Fortnite,Epic Games,,33214
+minecraft,Minecraft,Mojang Studios,,27471
+world-of-warcraft,World of Warcraft,Blizzard Entertainment,,18122
